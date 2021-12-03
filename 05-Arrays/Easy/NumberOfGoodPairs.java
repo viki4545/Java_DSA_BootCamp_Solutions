@@ -1,4 +1,4 @@
-package com.company.Arrays_and_ArrayList.Assignment;
+package com.company.Arrays_and_ArrayList.Assignment.Easy;
 
 /*
 //https://leetcode.com/problems/number-of-good-pairs/

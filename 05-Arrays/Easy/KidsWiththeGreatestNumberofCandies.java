@@ -1,4 +1,4 @@
-package com.company.Arrays_and_ArrayList.Assignment;
+package com.company.Arrays_and_ArrayList.Assignment.Easy;
 
 /*
 //https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
